@@ -2266,6 +2266,10 @@ input, select, textarea {
 		position: relative;
 	}
 
+	.devicons {
+			font-size: 70px;
+		}
+
 		.icon:before {
 			-moz-osx-font-smoothing: grayscale;
 			-webkit-font-smoothing: antialiased;
@@ -2279,9 +2283,9 @@ input, select, textarea {
 			display: none;
 		}
 
-		.devicons {
+		/* .devicons {
 			font-size: 70px;
-		}
+		} */
 
 		.icon.style1:before {
 			color: #c3e895;
@@ -3088,7 +3092,7 @@ input, select, textarea {
 /* Footer */
 
 	#footer {
-		padding: 6em 0 6em 0 ;
+		padding: 4em 0 4em 0 ;
 		background-color: #4686a0;
 		color: rgba(255, 255, 255, 0.75);
 		background-attachment: fixed,							fixed,							fixed;
@@ -3271,7 +3275,7 @@ input, select, textarea {
 		/* Footer */
 
 			#footer {
-				padding: 4em 0 4em 0 ;
+				padding: 3em 0 3em 0 ;
 				background-attachment: scroll;
 			}
 
@@ -3308,7 +3312,7 @@ input, select, textarea {
 		/* Footer */
 
 			#footer {
-				padding: 5em 3em 5em 3em ;
+				padding: 3em;
 			}
 
 		/* One */
